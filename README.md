@@ -1,5 +1,5 @@
 # ConsultaCFDIHttpPOST
-Consulta del web service del sat con HTTP POST
+Consumo del Servicio público de consulta estatus CFDI SAT a tráves de un HTTP Request POST
 
 Usando la documentación de: https://developers.sw.com.mx/knowledge-base/servicio-publico-de-consulta-estatus-cfdi-sat/
 
